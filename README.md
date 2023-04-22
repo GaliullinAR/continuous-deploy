@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/llp1vmhmh0d21abw?svg=true)](https://ci.appveyor.com/project/GaliullinAR/continuous-deploy-x3xi6)
 
 # Webpack5
 
