@@ -23,6 +23,6 @@ deploy_script:  # скрипт развёртывания
   - git config --global credential.helper store
   - git config --global user.name GaliullinAR
   - git config --global user.email galiullin.ar651@gmail.com  
-  - git config --global user.password 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
+  - git config --global user.password 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
   - echo "https://$GITHUB_TOKEN:x-oauth-basic@github.com" > "$HOME/.git-credentials"
   - npx push-dir --dir=dist --branch=gh-pages --force --verbose
